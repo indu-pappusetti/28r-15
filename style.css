@@ -1,0 +1,29 @@
+.main {
+    text-align: center;
+}
+
+.item1,
+.item2,
+.item3,
+.item4 {
+    width: 200px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    .karma-regular {
+        font-family: "Karma", serif;
+        font-weight: 300;
+        font-style: normal;
+     }
+    
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+img {
+    width: 100%;
+    margin: 0;
+}
